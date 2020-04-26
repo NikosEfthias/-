@@ -1,0 +1,16 @@
+[package]
+name = "taxydromos"
+version = "0.0.0"
+authors = ["nikos efthias <nikos@mugsoft.io>"]
+edition = "2018"
+description="ΤΑΧΥΔΡΌΜΟΣ,yet another mail client"
+documentation="https://docs.rs/taxydromos"
+homepage="https://github.com/nikosefthias/taxydromos"
+repository="https://github.com/nikosefthias/taxydromos"
+license="MIT"
+keywords=["email","gmail","yandex","zoho","social"]
+categories=["email"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
